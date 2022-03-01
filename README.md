@@ -1,6 +1,7 @@
 # GIT-SYNC
-Apliacado a RHEL/Centos
-Fácil sincronismo entre repositórios do github com seu servidor
+# Apliacado a RHEL/Centos
+
+Realize o fácil sinconismo do github com o seu servidor
 
 Savar em /root :
 - install-git
