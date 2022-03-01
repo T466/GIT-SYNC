@@ -1,5 +1,5 @@
 # GIT-SYNC
-# Apliacado a RHEL/Centos
+Apliacado a RHEL/Centos
 
 Realize o fácil sinconismo do github com o seu servidor
 
