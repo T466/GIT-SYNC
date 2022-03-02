@@ -52,6 +52,7 @@ cd /root/scripts-up-git
 
 echo "#!/bin/bash" >> $nameup
 echo " " >> $nameup
+echo "cd $repo" >> $nameup
 echo "git add *" >> $nameup
 echo 'git commit -m "Adicionado dados"' >> $nameup
 echo "git status" >> $nameup
