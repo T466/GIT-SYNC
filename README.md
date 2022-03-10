@@ -2,7 +2,7 @@
 
 Apliacado a RHEL/Centos
 
-Realize o fácil sinconismo do github com o seu servidor
+Realize o fácil sincronismo do github com o seu servidor
 
 Savar em /root :
 - install-git
