@@ -8,7 +8,15 @@ ls -la /
 echo; echo "Ex: /storage"; echo
 read -p "Endereco: " addr; echo
 
+if [ ! -e "$addr" ]; then
+
 mkdir $addr
+
+   else
+echo
+
+fi
+
 sleep 2
 cd $addr
 
