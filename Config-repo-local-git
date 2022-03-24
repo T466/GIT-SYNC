@@ -3,7 +3,7 @@
 clear
 echo
 
-echo "ADICIONE O ENDERECO PARA REPOSITORIO LOCAL BASEALOD NA LISTA ABAIXO:"; echo
+echo "ADICIONE O ENDERECO PARA REPOSITORIO LOCAL, BASEADO NA LISTA ABAIXO:"; echo
 ls -la /
 echo; echo "Ex: /storage"; echo
 read -p "Endereco: " addr; echo
