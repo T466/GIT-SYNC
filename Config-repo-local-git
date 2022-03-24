@@ -2,8 +2,10 @@
 
 clear
 echo
-echo "ADICIONE O ENDERECO PARA REPOSITORIO LOCAL"
-echo "Ex: /storage"; echo
+
+echo "ADICIONE O ENDERECO PARA REPOSITORIO LOCAL BASEALOD NA LISTA ABAIXO:"; echo
+ls -la /
+echo; echo "Ex: /storage"; echo
 read -p "Endereco: " addr; echo
 
 mkdir $addr
